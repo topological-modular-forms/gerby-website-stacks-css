@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/stacks/stacks-project/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/stacks/stacks-project/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/stacks/stacks-project/commits/master.atom"/>
+  <title>Recent Commits to stacks-project:master</title>
+  <updated>2023-06-27T19:08:04Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/74af77a731f7cb747ebc032518ed94177269e19a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stacks/stacks-project/commit/74af77a731f7cb747ebc032518ed94177269e19a"/>
+    <title>
+        Tags: Added new tags
+    </title>
+    <updated>2023-06-27T19:08:04Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4593307?s=30&amp;v=4"/>
+    <author>
+      <name>aisejohan</name>
+      <uri>https://github.com/aisejohan</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Tags: Added new tags&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ba9831c0b77206d50b2654dab2848ac4618e840e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stacks/stacks-project/commit/ba9831c0b77206d50b2654dab2848ac4618e840e"/>
+    <title>
+        Fix some internal references
+    </title>
+    <updated>2023-06-27T19:07:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4593307?s=30&amp;v=4"/>
+    <author>
+      <name>aisejohan</name>
+      <uri>https://github.com/aisejohan</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix some internal references&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/53fe885e0bcc0ca106ae482e60a5b3e75f92cec7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stacks/stacks-project/commit/53fe885e0bcc0ca106ae482e60a5b3e75f92cec7"/>
+    <title>
+        Fix internal reference
+    </title>
+    <updated>2023-06-27T18:35:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4593307?s=30&amp;v=4"/>
+    <author>
+      <name>aisejohan</name>
+      <uri>https://github.com/aisejohan</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix internal reference&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d0d2eaf654b80eeb50f9e1e563ad85ead599a49e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stacks/stacks-project/commit/d0d2eaf654b80eeb50f9e1e563ad85ead599a49e"/>
+    <title>
+        Another coding style fix
+    </title>
+    <updated>2023-06-27T18:27:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4593307?s=30&amp;v=4"/>
+    <author>
+      <name>aisejohan</name>
+      <uri>https://github.com/aisejohan</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Another coding style fix&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e08032222da95dd95f4619a130b1220c6dc7a9b2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stacks/stacks-project/commit/e08032222da95dd95f4619a130b1220c6dc7a9b2"/>
+    <title>
+        Coding style fixes mostly
+    </title>
+    <updated>2023-06-27T18:24:16Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4593307?s=30&amp;v=4"/>
+    <author>
+      <name>aisejohan</name>
+      <uri>https://github.com/aisejohan</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Coding style fixes mostly&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/28190d88c32d4b94239a6605c72e11c14fb8cc20</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stacks/stacks-project/commit/28190d88c32d4b94239a6605c72e11c14fb8cc20"/>
+    <title>
+        Fix coding style in categories
+    </title>
+    <updated>2023-06-27T17:03:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4593307?s=30&amp;v=4"/>
+    <author>
+      <name>aisejohan</name>
+      <uri>https://github.com/aisejohan</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix coding style in categories&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/33a25471abe5fcbb7cf20416f90a02b056c8010d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stacks/stacks-project/commit/33a25471abe5fcbb7cf20416f90a02b056c8010d"/>
+    <title>
+        Proofs contributed by Clément Baillet, Colin Hamon, Jérémy Gerin
+    </title>
+    <updated>2023-06-27T13:31:17Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4593307?s=30&amp;v=4"/>
+    <author>
+      <name>aisejohan</name>
+      <uri>https://github.com/aisejohan</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Proofs contributed by Clément Baillet, Colin Hamon, Jérémy Gerin
+
+Thanks to Kestutis Cesnavicius, Clément Baillet, Colin Hamon, Jérémy Gerin
+
+(Small edits were made to make the material compile.)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/02927978f3449b315831c2e70ebed9036db9f179</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stacks/stacks-project/commit/02927978f3449b315831c2e70ebed9036db9f179"/>
+    <title>
+        Fix two places where birational is used incorrectly
+    </title>
+    <updated>2023-06-27T12:36:03Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4593307?s=30&amp;v=4"/>
+    <author>
+      <name>aisejohan</name>
+      <uri>https://github.com/aisejohan</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix two places where birational is used incorrectly
+
+Thanks to Elías Guisado Villalgordo
+https://stacks.math.columbia.edu/tag/035Q#comment-8535&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b6ec3987813a472e0572800e9c64d940eb1e9161</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stacks/stacks-project/commit/b6ec3987813a472e0572800e9c64d940eb1e9161"/>
+    <title>
+        Fix proof Lemma 0358
+    </title>
+    <updated>2023-06-26T18:16:51Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4593307?s=30&amp;v=4"/>
+    <author>
+      <name>aisejohan</name>
+      <uri>https://github.com/aisejohan</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix proof Lemma 0358
+
+Thanks to  Elías Guisado
+https://stacks.math.columbia.edu/tag/0358#comment-8517&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d10b405c622b8a9c97b8029eda53d6ce566dfbb2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stacks/stacks-project/commit/d10b405c622b8a9c97b8029eda53d6ce566dfbb2"/>
+    <title>
+        Fix a typo in algebra
+    </title>
+    <updated>2023-06-26T17:40:18Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4593307?s=30&amp;v=4"/>
+    <author>
+      <name>aisejohan</name>
+      <uri>https://github.com/aisejohan</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix a typo in algebra
+
+Thanks to Elias Guisado
+https://stacks.math.columbia.edu/tag/034M#comment-8513&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/593c7279d44c44700b1b22fe74a71e2dabb7f001</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stacks/stacks-project/commit/593c7279d44c44700b1b22fe74a71e2dabb7f001"/>
+    <title>
+        Slightly better handling of shift functors in triangulated categories
+    </title>
+    <updated>2023-06-26T13:55:00Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4593307?s=30&amp;v=4"/>
+    <author>
+      <name>aisejohan</name>
+      <uri>https://github.com/aisejohan</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Slightly better handling of shift functors in triangulated categories
+
+Thanks to Elías Guisado Villalgordo and Christian Q.
+
+This closes #165. See discussion there for why I made the choices
+I made in this commit
+
+See
+https://stacks.math.columbia.edu/tag/0144#comment-4327
+https://stacks.math.columbia.edu/tag/0144#comment-4483
+https://stacks.math.columbia.edu/tag/05R6#comment-8343&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ba01354e07c6e6968d4f1b26bda70e1927a40085</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stacks/stacks-project/commit/ba01354e07c6e6968d4f1b26bda70e1927a40085"/>
+    <title>
+        Remark comparing f_! and f_*
+    </title>
+    <updated>2023-06-23T12:59:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4593307?s=30&amp;v=4"/>
+    <author>
+      <name>aisejohan</name>
+      <uri>https://github.com/aisejohan</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remark comparing f_! and f_*&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2f68a5d0bdf72e6702c82e2a8db5be7580a569dc</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stacks/stacks-project/commit/2f68a5d0bdf72e6702c82e2a8db5be7580a569dc"/>
+    <title>
+        Update sites-modules.tex
+    </title>
+    <updated>2023-06-23T12:57:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/26502110?s=30&amp;v=4"/>
+    <author>
+      <name>prime235711</name>
+      <uri>https://github.com/prime235711</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update sites-modules.tex&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a3fd10ab08a1a2221de24b264d93afe431ecbb77</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stacks/stacks-project/commit/a3fd10ab08a1a2221de24b264d93afe431ecbb77"/>
+    <title>
+        Two more lemmas on weakly normal schemes
+    </title>
+    <updated>2023-06-14T16:16:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4593307?s=30&amp;v=4"/>
+    <author>
+      <name>aisejohan</name>
+      <uri>https://github.com/aisejohan</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Two more lemmas on weakly normal schemes&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/62d2fe56248c49c3471f87da89fefbe9f6dd47ad</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stacks/stacks-project/commit/62d2fe56248c49c3471f87da89fefbe9f6dd47ad"/>
+    <title>
+        Small improvements of stuff on weak normalization
+    </title>
+    <updated>2023-06-14T15:19:58Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4593307?s=30&amp;v=4"/>
+    <author>
+      <name>aisejohan</name>
+      <uri>https://github.com/aisejohan</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Small improvements of stuff on weak normalization&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/50133ba95eb47509514710dacd3690a2fcb0c2c2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stacks/stacks-project/commit/50133ba95eb47509514710dacd3690a2fcb0c2c2"/>
+    <title>
+        Section on weak normalization
+    </title>
+    <updated>2023-06-13T19:26:47Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4593307?s=30&amp;v=4"/>
+    <author>
+      <name>aisejohan</name>
+      <uri>https://github.com/aisejohan</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Section on weak normalization
+
+Just the bare minimum&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3695497177aaaf7057a4e05c19e7662489a72351</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stacks/stacks-project/commit/3695497177aaaf7057a4e05c19e7662489a72351"/>
+    <title>
+        Fix a proof
+    </title>
+    <updated>2023-06-13T16:42:17Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4593307?s=30&amp;v=4"/>
+    <author>
+      <name>aisejohan</name>
+      <uri>https://github.com/aisejohan</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix a proof
+
+Commit 69574a4 didn&amp;#39;t correctly address the problem pointed out by
+correction_bot&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f4c153e83d7fec043bc92594a126074b75d6f5e1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stacks/stacks-project/commit/f4c153e83d7fec043bc92594a126074b75d6f5e1"/>
+    <title>
+        Missing characterization of seminormal schemes
+    </title>
+    <updated>2023-06-13T15:20:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4593307?s=30&amp;v=4"/>
+    <author>
+      <name>aisejohan</name>
+      <uri>https://github.com/aisejohan</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Missing characterization of seminormal schemes&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a7ebd64aae146613a67fc6f62e03cb39cf0e4632</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stacks/stacks-project/commit/a7ebd64aae146613a67fc6f62e03cb39cf0e4632"/>
+    <title>
+        Relate relative cycles to weightings
+    </title>
+    <updated>2023-06-12T19:26:56Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4593307?s=30&amp;v=4"/>
+    <author>
+      <name>aisejohan</name>
+      <uri>https://github.com/aisejohan</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Relate relative cycles to weightings
+
+In the locally quasi-finite case, a relative 0-cycle is more or less the
+same as a weighting. The difference is the integrality condition.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d0ebdb59c51c672a0a20d204795f63ced7327754</id>
+    <link type="text/html" rel="alternate" href="https://github.com/stacks/stacks-project/commit/d0ebdb59c51c672a0a20d204795f63ced7327754"/>
+    <title>
+        Large set of changes
+    </title>
+    <updated>2023-06-12T19:26:56Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4593307?s=30&amp;v=4"/>
+    <author>
+      <name>aisejohan</name>
+      <uri>https://github.com/aisejohan</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Large set of changes
+
+Tried to get a definite version of the chapter on relative cycles&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

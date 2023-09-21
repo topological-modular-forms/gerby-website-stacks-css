@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Stacks Project Blog</title>
+	<atom:link href="https://www.math.columbia.edu/~dejong/wordpress/?feed=rss2" rel="self" type="application/rss+xml" />
+	<link>https://www.math.columbia.edu/~dejong/wordpress</link>
+	<description>Algebraic stacks and open source algebraic geometry</description>
+	<lastBuildDate>Fri, 01 Sep 2023 21:33:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>Endomorphisms of the Koszul complex</title>
+		<link>https://www.math.columbia.edu/~dejong/wordpress/?p=4912</link>
+					<comments>https://www.math.columbia.edu/~dejong/wordpress/?p=4912#respond</comments>
+		
+		<dc:creator><![CDATA[Johan]]></dc:creator>
+		<pubDate>Fri, 01 Sep 2023 21:33:59 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://www.math.columbia.edu/~dejong/wordpress/?p=4912</guid>
+
+					<description><![CDATA[Let k be a ring, for example a field. Let R be a k-algebra. Let f_1, &#8230;, f_r be a regular sequence in R such that k &#8594; R/(f_1, &#8230;, f_r) is an isomorphism. Let K be the Koszul complex &#8230; <a href="https://www.math.columbia.edu/~dejong/wordpress/?p=4912">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Let k be a ring, for example a field. Let R be a k-algebra. Let f_1, &#8230;, f_r be a regular sequence in R such that k &rarr; R/(f_1, &#8230;, f_r) is an isomorphism. Let K be the Koszul complex over R on f_1, &#8230;, f_r viewed as a cochain complex sitting in degrees -r, &#8230;, 0. See <a href="https://stacks.math.columbia.edu/tag/0621">Tag 0621</a>. Then we are interested in the hom-complex</p>
+<blockquote><p>E = Hom_R(K, K)</p></blockquote>
+<p>constructed in <a href="https://stacks.math.columbia.edu/tag/0A8H">Tag 0A8H</a> which we may and do view as a differential graded R-algebra, see for example <a href="https://stacks.math.columbia.edu/tag/0FQ2">Tag 0FQ2</a>. This algebra is interesting for many reasons; for example because there is an equivalence</p>
+<blockquote><p>D(E) = D_{QCoh, V(f_1, &#8230;, f_r)}(Spec(R))</p></blockquote>
+<p>Here the LHS is the derived category of dg E-modules and the RHS is the derived category of complexes of quasi-coherent modules on Spec(R) supported set theoretically on f_1 = &#8230; = f_r = 0. To prove this equivalence, use <a href="https://stacks.math.columbia.edu/tag/09IR">Tag 09IR</a> to see that K gives a generator of the RHS and argue as in the proof of <a href="https://stacks.math.columbia.edu/tag/09M5">Tag 09M5</a>.</p>
+<p>Recall that the underlying R-module of K is the exterior algebra on the free module of rank r, say with basis e_1, &#8230;, e_r. For i = 1, .., r let v_i : K &rarr; K be the operator given by contraction by the dual basis element to e_i. Of course v_i has degree 1 and a computation shows that v_i : K &rarr; K[1] is a map of complexes. Similarly, the reader shows that v_i &#8728; v_j = &#8211; v_j &#8728; v_i and v_i &#8728; v_i = 0. Thus we obtain a map of differential graded k-algebras</p>
+<blockquote><p>k &lang; v_1, &#8230;, v_r &rang; &rarr; E</p></blockquote>
+<p>with target E and source the exterior algebra over k on v_1, &#8230;, v_r in degree 1 and vanishing differential. A bit more work shows that this map is a quasi-isomorphism of differential graded k-algebras; this is where we use the assumption that f_1, &#8230;, f_r is a regular sequence so the koszul complex is a resolution of R/(f_1, &#8230;, f_r) by <a href="https://stacks.math.columbia.edu/tag/062F">Tag 062F</a>.</p>
+<p>Applying <a href="https://stacks.math.columbia.edu/tag/09S6">Tag 09S6</a> we conclude that</p>
+<blockquote><p>D(k &lang; v_1, &#8230;, v_r &rang;) = D_{QCoh, V(f_1, &#8230;, f_r)}(Spec(R))</p></blockquote>
+<p>Cheers!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.math.columbia.edu/~dejong/wordpress/?feed=rss2&#038;p=4912</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Workshop</title>
+		<link>https://www.math.columbia.edu/~dejong/wordpress/?p=4905</link>
+		
+		<dc:creator><![CDATA[Johan]]></dc:creator>
+		<pubDate>Mon, 14 Aug 2023 12:58:36 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://www.math.columbia.edu/~dejong/wordpress/?p=4905</guid>
+
+					<description><![CDATA[We had a very successful Stacks project workshop. Here is a picture: If I have time later this week, I will report here on what happened during the workshop with focus on the activities in my group.]]></description>
+										<content:encoded><![CDATA[<p>We had a very successful <a href="https://stacks.github.io/">Stacks project workshop</a>. Here is a picture: <a href="https://www.math.columbia.edu/~dejong/wordpress/?attachment_id=4906" rel="attachment wp-att-4906"><img decoding="async" fetchpriority="high" src="https://www.math.columbia.edu/~dejong/wordpress/wp-content/uploads/2023/08/cake-scaled.jpg" alt="" width="2560" height="1707" class="aligncenter size-full wp-image-4906" srcset="https://www.math.columbia.edu/~dejong/wordpress/wp-content/uploads/2023/08/cake-scaled.jpg 2560w, https://www.math.columbia.edu/~dejong/wordpress/wp-content/uploads/2023/08/cake-300x200.jpg 300w, https://www.math.columbia.edu/~dejong/wordpress/wp-content/uploads/2023/08/cake-1024x683.jpg 1024w, https://www.math.columbia.edu/~dejong/wordpress/wp-content/uploads/2023/08/cake-768x512.jpg 768w, https://www.math.columbia.edu/~dejong/wordpress/wp-content/uploads/2023/08/cake-1536x1024.jpg 1536w, https://www.math.columbia.edu/~dejong/wordpress/wp-content/uploads/2023/08/cake-2048x1365.jpg 2048w, https://www.math.columbia.edu/~dejong/wordpress/wp-content/uploads/2023/08/cake-450x300.jpg 450w" sizes="(max-width: 2560px) 100vw, 2560px" /></a></p>
+<p>If I have time later this week, I will report here on what happened during the workshop with focus on the activities in my group.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>A Jouanolou device</title>
+		<link>https://www.math.columbia.edu/~dejong/wordpress/?p=4828</link>
+					<comments>https://www.math.columbia.edu/~dejong/wordpress/?p=4828#comments</comments>
+		
+		<dc:creator><![CDATA[Johan]]></dc:creator>
+		<pubDate>Fri, 09 Jun 2023 15:03:07 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://www.math.columbia.edu/~dejong/wordpress/?p=4828</guid>
+
+					<description><![CDATA[Let X be a scheme or an algebraic space. A Jouanolou device is a morphism Y &#8594; X such that Y is an affine scheme and such that Y is a torsor for a vector bundle over X. A scheme &#8230; <a href="https://www.math.columbia.edu/~dejong/wordpress/?p=4828">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Let X be a scheme or an algebraic space. A <em>Jouanolou device</em> is a morphism Y &rarr; X such that Y is an affine scheme and such that Y is a torsor for a vector bundle over X.</p>
+<p>A scheme with an ample family of invertible modules has a Jouanolou device (due to Jouanolou and Thomason). This is called the &#8220;Jouanolou trick&#8221;.</p>
+<p>Let X be quasi-compact with affine diagonal. Consider the following conditions</p>
+<ol>
+<li>X has the resolution property</li>
+<li>X has a Jouanolou device</li>
+<li>X is the quotient of an affine scheme by a free action of a group scheme</li>
+<li>X is the quotient of a quasi-affine scheme by a free action of GL_n for some n</li>
+</ol>
+<p>We know from Thomason, Totaro, and Gros that 1, 3, and 4 are equivalent. It is easy to see that 2 implies 3.</p>
+<p>I am going to sketch an argument for 1 &rArr; 2. It may be in the literature; if you have a reference, please email me or leave a comment. [<strong>Edit:</strong> see end of this post.] Thanks!</p>
+<p>The case of schemes is easier so I will explain that first. So, assume X is a quasi-compact scheme with affine diagonal and with the resolution property. By standard methods we reduce to the case where X is also of finite type over the integers, i.e., we may assume X is Noetherian. Let X = U_1 &cup; &#8230; &cup; U_n be a finite affine open covering. Let I_i &subset; O_X be the ideal sheaf of the complement of U_i. By the resolution property, we may choose a finite locally free O_X-module V and a surjection V &rarr; I_1 &oplus; &#8230; &oplus; I_n. Thus we have</p>
+<blockquote><p>
+V &rarr; I_1 &oplus; &#8230; &oplus; I_n &rarr; O_X
+</p></blockquote>
+<p>Let E be the dual of V and let O_X(m_1 D_1 + &#8230; + m_n D_n) be short hand for SheafHom_{O_X}(I_1^{m_1} &#8230; I_n^{m_n}, O_X). Warning: this is just notation and we do not think of D_i as an actual divisor. Taking the dual sequence we obtain</p>
+<blockquote><p>
+O_X &rarr; O_X(D_1) &oplus; &#8230; &oplus; O_X(D_n) &rarr; E
+</p></blockquote>
+<p>If s : O_X &rarr; E is the composition, then we can consider</p>
+<blockquote><p>
+f : Y = RelativeSpec_X(Sym^*(E)/(s &#8211; 1)) &rarr; X
+</p></blockquote>
+<p>Since the section s is nowhere zero, this is a torsor for a vector bundle. To finish the proof we have to show that Y is affine. To see this it suffices to show that H^1(Y, G) = 0 for every coherent O_Y-module G. Since f_*G is a direct summand of f_*f^*f_*G it suffices to prove that for every coherent O_X-module F the map H^1(X, F) &rarr; H^1(X, f_*f^*F) is zero. This will be the case if for every element &xi; in H^1(X, F) there exists an m &gt; 0 such that the image of &xi; by the map</p>
+<blockquote><p>
+F = F &otimes; O_X &rarr; F &otimes; Sym^m(E)
+</p></blockquote>
+<p>is zero. Finally, the key point is that the map O_X &rarr; Sym^m(E) factors through the map</p>
+<blockquote><p>
+O_X &rarr; &bigoplus; O_X(m_1 D_1 + &#8230; + m_n D_n)
+</p></blockquote>
+<p>where the sum is over m_1 + &#8230; + m_n = m. Thus it suffices to show that &xi; dies in H^1(X, F &otimes; O_X(m_1 D_1 + &#8230; + m_n D_n)) provided m is large enough. Since m_i > m/n for at least one i, we see that it suffices to show that &xi; dies in H^1(X, F &otimes; O_X(m D_i)) for m large enough. This is true because (U_i &rarr; X)_*O_{U_i} is the colimit of the modules O_X(m D_i) and hence we have</p>
+<blockquote><p>
+colim H^1(X, F &otimes; O_X(m D_i)) = H^1(U_i, F|_{U_i}) = 0
+</p></blockquote>
+<p>Here we use that the open immersion U_i &rarr; X is affine and that U_i is affine. This proves the schemes case of the assertion.</p>
+<p>How do we change this argument when X is an algebraic space? We reduce to X of finite type over the integers as before. We replace the affine open covering by a surjective etale morphism U &rarr; X where U is an affine scheme. Using Zariski&#8217;s main theorem we may assume that U is a dense and schematically dense affine open of an algebraic space Z which comes with a finite morphism &pi; : Z &rarr; X. Let I &subset; O_Z be the ideal sheaf of the complement of U. If &pi; where finite locally free, there would be a trace map tr : &pi;_*O_Z &rarr; O_X. The replacement for this is that, after replacing I by a large positive power, there is a map</p>
+<blockquote><p>
+&tau; : &pi;_*I &rarr; O_X
+</p></blockquote>
+<p>such that for a point u &in; U with image x &in; X the restriction of &tau; on the summand O^h_{U, u} of (&pi;_*I) &otimes; O^h_{X, x} is given by the trace map for the finite free ring map O^h_{X, x} &rarr; O^h_{U, u}. In particular, &tau; is surjective. Choose a finite locally free O_X-module V and a surjection V &rarr; &pi;_*I. Thus we have</p>
+<blockquote><p>
+V &rarr; &pi;_*I &rarr; O_X
+</p></blockquote>
+<p>Let E be the dual of V and let s : O_X &rarr; E be the dual section. As before we have to show that Y = RelativeSpec_X(Sym^*(E)/(s &#8211; 1)) is affine.</p>
+<p>Before we prove this, we can reduce to X integral and even normal. Namely, if X&#8217; &rarr; X is finite surjective and if we can show that the base change of Y to X&#8217; is affine, then it follows that Y is affine (see <a href="https://stacks.math.columbia.edu/tag/01ZT">Tag 01ZT</a>). The reader can check that the situation after base change has all the same properties as the situation before base change.</p>
+<p>OK, we continue the proof that Y is affine, but now with X normal irreducible. Arguing as in the case of schemes, we reduce to proving that given F coherent on X and &xi; &in; H^1(X, F) then for m large enough &xi; maps to zero in H^1(X, F &otimes; Sym^m(E)). Observe that Sym^m(E) is dual to the sheaf Syt^m(V) of symmetric tensors. Thus we consider the map</p>
+<blockquote><p>
+&tau;^m : Syt^m(&pi;_*I) &rarr; O_X
+</p></blockquote>
+<p>Then I <strong>claim</strong> given m_0 for all m &gg; m_0 the map &tau;^m is a sum of compositions</p>
+<blockquote><p> Syt^m(&pi;_*I) &rarr; &pi;_*(I^a) &otimes; Syt^{m &#8211; a}(&pi;_*I) &rarr; O_X</p></blockquote>
+<p>for a &ge; m_0. Here the first map comes from the multiplication maps and the second uses &tau; on  the first tensor factor and some linear map Syt^{m &#8211; a}(&pi;_*I) &rarr; O_X on the second tensor factor. It follows that F &rarr; F &otimes; Sym^m(E) is a sum of maps which factor through F &rarr; SheafHom(&pi;_*(I^a), F) for some a &ge; m_0. Thus it suffices to show that</p>
+<blockquote><p> colim SheafHom(&pi;_*(I^a), F) </p></blockquote>
+<p>is the pushforward of a coherent module on U to get the desired vanishing (argument as in the schemes case). This holds because it is the pushforward of the pullback of F as follows from Deligne&#8217;s formula and &omega;_{U/X} &cong; O_U. This finishes the sketch of the proof.</p>
+<p>A word about the claim. To prove it we construct global maps over X and then we prove the equality on stalks at the generic point of X (this is why we reduced to the case where X is normal irreducible). Let us first explain what is happening in the generic point. Say L is a finite separable algebra of degree n over a field K. Let &tau; : L &rarr; K be the trace map. Denote Syt^m(L) the symmetric tensors in the mth tensor power of L over K. For m large enough we will write</p>
+<blockquote><p>
+&tau;^m : Syt^m(L) &rarr; K
+</p></blockquote>
+<p>as a sum of maps</p>
+<blockquote><p>
+Syt^m(L) &rarr; L &otimes; Syt^{m &#8211; a}(L) &rarr; K
+</p></blockquote>
+<p>for a &ge; m_0 where the first arrow uses the product on the first a tensors and the second map is of the form &tau; \otimes f_{m &#8211; a} for some linear map f_{m &#8211; a} : Syt^{m &#8211; a}(L) &rarr; K. In fact f_{m &#8211; a}(alpha) will be a universal polynomial in the coefficients of the characteristic polynomial of alpha over K. Thus to prove this we may reduce to the case where K is algebraically closed. Then L = K x &#8230; x K is a product of n copies of K. In this case, the dual statement, in terms of symmetric polynomials, asks the following: we have to write the polynomial</p>
+<blockquote><p> (x_1 + &#8230; + x_n)^m </p></blockquote>
+<p>as a sum of polynomials</p>
+<blockquote><p> (x_1^a + &#8230; + x_n^a) f_{m &#8211; a} </p></blockquote>
+<p>for a &ge; m_0 where f_{m &#8211; a} is some element in the <strong>Z</strong>-algebra S of symmetric polynomials in x_1, &#8230;, x_n. Now this is possible because the element x_1 + &#8230; + x_n maps to a nilpotent element of</p>
+<blockquote><p> S /(p_a; a &ge; m_0)</p></blockquote>
+<p>as the reader easily verifies. To finish the proof, all that is required is to observe that the polynomials f_{m &#8211; a} do indeed produce linear maps Syt^{m &#8211; a}(&pi;_*I) &rarr; O_X over X as X is normal (details omitted).</p>
+<p>Thanks for reading!</p>
+<p><strong>Edit 6/25/2023.</strong> Burt Totaro emailed to say that one can deduce the existence of the Jouanolou device more directly from his and Gross&#8217;s papers. I agree. For example, we may using their papers write X as W/GL_n with W quasi-affine and then use the &#8220;equivariant Jouanolou trick&#8221; in Section 3 of Burt&#8217;s paper to get the Jouanolou device for X. Or one can modify the arguments in Burt&#8217;s paper directly and get a simple, short, direct proof. I gave the argument above because for a while I&#8217;ve wanted to make the thing about powers of the trace map work but didn&#8217;t succeed until the writing of this blog post.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.math.columbia.edu/~dejong/wordpress/?feed=rss2&#038;p=4828</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Updated once more</title>
+		<link>https://www.math.columbia.edu/~dejong/wordpress/?p=4805</link>
+		
+		<dc:creator><![CDATA[Johan]]></dc:creator>
+		<pubDate>Fri, 03 Mar 2023 22:59:29 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://www.math.columbia.edu/~dejong/wordpress/?p=4805</guid>
+
+					<description><![CDATA[Thanks for all the comments. I looked at each and every one of them that got posted since the last update and I fixed all typos, etc, that were pointed out. I cannot follow up on all suggestions made in &#8230; <a href="https://www.math.columbia.edu/~dejong/wordpress/?p=4805">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Thanks for all the comments. I looked at each and every one of them that got posted since the last update and I fixed all typos, etc, that were pointed out. I cannot follow up on all suggestions made in the comments for reasons of time.</p>
+<p>There haven&#8217;t been a lot of actual errors pointed out recently &#8212; I don&#8217;t think this means there aren&#8217;t any, so please keep looking for those. Thanks!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Sections vs retractions</title>
+		<link>https://www.math.columbia.edu/~dejong/wordpress/?p=4798</link>
+					<comments>https://www.math.columbia.edu/~dejong/wordpress/?p=4798#comments</comments>
+		
+		<dc:creator><![CDATA[Johan]]></dc:creator>
+		<pubDate>Mon, 16 Jan 2023 19:34:37 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://www.math.columbia.edu/~dejong/wordpress/?p=4798</guid>
+
+					<description><![CDATA[This is just a warning for readers of the Stacks project: please be careful as I think I don&#8217;t know left from right. As a consequence, the text of the Stacks project sometimes uses the phrase &#8220;section&#8221; when it should &#8230; <a href="https://www.math.columbia.edu/~dejong/wordpress/?p=4798">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>This is just a warning for readers of the Stacks project: please be careful as I think I don&#8217;t know left from right. As a consequence, the text of the Stacks project sometimes uses the phrase &#8220;section&#8221; when it should be using &#8220;retraction&#8221;. Similarly, watch out for confusion between &#8220;left inverse&#8221; and &#8220;right inverse&#8221;.</p>
+<p>If you find occurrences of this, just leave a comment to point it out and we&#8217;ll fix it.</p>
+<p>Thanks!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.math.columbia.edu/~dejong/wordpress/?feed=rss2&#038;p=4798</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Updated again</title>
+		<link>https://www.math.columbia.edu/~dejong/wordpress/?p=4790</link>
+		
+		<dc:creator><![CDATA[Johan]]></dc:creator>
+		<pubDate>Thu, 18 Aug 2022 17:44:52 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://www.math.columbia.edu/~dejong/wordpress/?p=4790</guid>
+
+					<description><![CDATA[After a little snafu with python packages over the last few days, the Stacks project is now updated with your latest comments incorporated. Many thanks to Alex Scheffeling, Zhiyu Zhang, and David Holmes for their help in responding to comments. &#8230; <a href="https://www.math.columbia.edu/~dejong/wordpress/?p=4790">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>After a little snafu with python packages over the last few days, the <a href="https://stacks.math.columbia.edu/">Stacks project</a> is now updated with your latest comments incorporated. Many thanks to  Alex Scheffeling, Zhiyu Zhang, and David Holmes for their help in responding to comments.</p>
+<p>Please keep leaving comments. Please be as precise as you can. From top to bottom the most valuable comments are</p>
+<ol>
+<li> Pointing out mathematical errors in proofs.</li>
+<li> Pointing out specific steps in a proof you do not understand.</li>
+<li> Pointing out typos which make it harder to understand the mathematics, e.g., if symbols are mixed up or if the arrows point in the wrong direction.</li>
+<li> Pointing out that a reference is to the wrong tag.</li>
+<li> Precise suggestions as to how to clarify a proof.</li>
+<li> Alternative proofs, written out in detail and checked to not use forward references.</li>
+<li> Spelling errors.</li>
+<li> Punctuation.</li>
+<li> Whitespace errors:)</li>
+</ol>
+<p>The reason that alternative proofs are so low on this list is that of course almost every mathematical result can be proven in a 100 different ways.</p>
+<p>Thanks very much for <a href="https://stacks.math.columbia.edu/contribute">helping out</a>!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Help wanted</title>
+		<link>https://www.math.columbia.edu/~dejong/wordpress/?p=4776</link>
+		
+		<dc:creator><![CDATA[Johan]]></dc:creator>
+		<pubDate>Mon, 02 May 2022 13:34:02 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://www.math.columbia.edu/~dejong/wordpress/?p=4776</guid>
+
+					<description><![CDATA[So I am going through the comments left on the Stacks project and many of the comments could have been answered more quickly. I do scan new comments quickly to see if they are pointing out a serious error with &#8230; <a href="https://www.math.columbia.edu/~dejong/wordpress/?p=4776">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>So I am going through the comments left on the Stacks project and many of the comments could have been answered more quickly. I do scan new comments quickly to see if they are pointing out a serious error with the material, because if so I want to be on top of it! But generally speaking I only go through the comments in detail only once every so often.</p>
+<p>Anyway, I was wondering if anybody is interested in helping out with answering comments? Let me describe a bit more what I have in mind. Your task would be to monitor activity and take a first stab at responding to comments. Often comments point out trivial typos, sometimes a comment identifies a small error in a proof, or occasionally a comment suggests improvements to a proof and/or statement of a lemma. In these cases you could just quickly make local edits in the relevant latex file and communicate that to me. Or, if you know how to use git I can give you access to the repository to push the corresponding changes directly. Finally, if a more serious error is pointed out we can figure out how to fix it together.</p>
+<p>You don&#8217;t need to understand all the material in the Stacks project as you can often figure out what went wrong by looking locally at the material. Or you can just answer only comments on certain topics; we don&#8217;t need all the comments to be answered quickly. Finally, we can have multiple people dealing with comments as well.</p>
+<p>Anyway, let me know by email if you are interested!</p>
+<p><strong>Update May 19:</strong> Thanks to some people offering to help I am no longer actively looking. You can of course always informally help out by answering questions that people leave in the comments or by pointing out mistakes and/or improvements to the exposition!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Supports of flat modules, part B</title>
+		<link>https://www.math.columbia.edu/~dejong/wordpress/?p=4742</link>
+		
+		<dc:creator><![CDATA[Johan]]></dc:creator>
+		<pubDate>Sun, 13 Feb 2022 02:11:10 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://www.math.columbia.edu/~dejong/wordpress/?p=4742</guid>
+
+					<description><![CDATA[Part A is this post. Let me prove the opposite of what the exercise in part A wrongly claimed (sigh). Lemma: Let Z &#8212;> Y be a finite morphism of affine schemes. Then there exists a closed immersion Z &#8212;> &#8230; <a href="https://www.math.columbia.edu/~dejong/wordpress/?p=4742">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Part A is <a href="https://www.math.columbia.edu/~dejong/wordpress/?p=4727">this post</a>. Let me prove the opposite of what the exercise in part A wrongly claimed (sigh).</p>
+<p><strong>Lemma:</strong> Let Z &#8212;> Y be a finite morphism of affine schemes. Then there exists a closed immersion Z &#8212;> Z&#8217; of schemes over Y such that Z&#8217; is finite syntomic over Y.</p>
+<p><strong>Remark:</strong> If we embed Z&#8217; into a smooth scheme X over Y, then F = O_{Z&#8217;} is a coherent O_X-module flat over Y such that the generic points of Z are associated points of the restriction of F to their fibres.</p>
+<p><strong>Proof:</strong> Write Y = Spec(A) and Z = Spec(B). Choose generators b_1, &#8230;, b_r of B as an algebra over A. As B is finite over A, each b_i is the root of a monic polynomial P_i with coefficients in A. Then B&#8217; = A[x_1, &#8230;, x_r]/(P_1(x_1), &#8230;, P_r(x_r)) is finite syntomic over A and Z&#8217; = Spec(B&#8217;) works. EndProof.</p>
+<p>The point I want to make in this post is that we have some equidimensionality result for associated points of flat modules, namely EGA IV, Proposition 12.1.1.5 (see <a href="https://stacks.math.columbia.edu/tag/0GSF">Tag 0GSF</a>). It implies the following: suppose that f : X &#8212;> Y is smooth with Y Noetherian and irreducible. Suppose that F is coherent on X and flat over Y. Let x be a point of the generic fibre of f which is an associated point of F. Then the zariski closure Z &subset; X of the singleton {x} has the property that Z &#8212;> Y is equidimensional!</p>
+<p>So for example, there is no finite module M over k[x, y, z] which is flat over k[x, y] such that (x &#8211; yt) is an associated prime of M. Presumably, you can see this directly? Is it easy? I didn&#8217;t try.</p>
+<p>Enjoy!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Supports of flat modules</title>
+		<link>https://www.math.columbia.edu/~dejong/wordpress/?p=4727</link>
+					<comments>https://www.math.columbia.edu/~dejong/wordpress/?p=4727#comments</comments>
+		
+		<dc:creator><![CDATA[Johan]]></dc:creator>
+		<pubDate>Sat, 12 Feb 2022 01:23:26 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://www.math.columbia.edu/~dejong/wordpress/?p=4727</guid>
+
+					<description><![CDATA[Let Z &#8212;> Y be the normalization of an affine cuspidal curve over an algebraically closed field k. Let i : Z &#8212;> X be a closed immersion over Y with X smooth over Y. Question: Does there exist a &#8230; <a href="https://www.math.columbia.edu/~dejong/wordpress/?p=4727">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Let Z &#8212;> Y be the normalization of an affine cuspidal curve over an algebraically closed field k. Let i : Z &#8212;> X be a closed immersion over Y with X smooth over Y.</p>
+<p>Question: Does there exist a coherent module F on X, flat over Y, whose support is equal to Z set theoretically?</p>
+<p>Answer: No in characteristic 0 and yes in characteristic p > 0.</p>
+<p>To see that the answer is no in characteristic 0 you show that the map O_Y &#8212;> O_Z has an O_Y-linear section if you have F (and of course this isn&#8217;t possible for the normalization of the cuspidal curve). Namely, consider the map tau : O_Z &#8212;> O_Y which sends an element f of O_Z to the trace over O_Y of multiplication by f&#8217; on F where f&#8217; is any lift of f to O_X. You show that the choice of f&#8217; doesn&#8217;t matter by checking at the generic point; the key fact is that the support condition tells us that f&#8217; which vanish on Z give nilpotent operators on F. Finally, this gets us a section as tau(g) = rg for g in O_Y. Here r = rank_Y(F) > 0 which is invertible as we have char 0.</p>
+<p>Remark: I think there doesn&#8217;t even exist a coherent F on X, flat over Y, such that the generic point of Z is an associated point of F. Exercise! [Edit on 2/12/22: Jason did the exercise and, uh, it isn&#8217;t true!]</p>
+<p>To see that the answer is yes in characteristic p > 2, say Y is the spectrum of A = k[a, b]/(a^3 &#8211; b^2). Let X be the spectrum of A[t] and consider the closed subscheme, finite flat over Y, cut out by t^p &#8211; a^{(p &#8211; 3)/2}b. The reduction of this subscheme is isomorphic to Z. For p = 2 use t^2 &#8211; a. Cheers!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.math.columbia.edu/~dejong/wordpress/?feed=rss2&#038;p=4727</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Wittgenstein</title>
+		<link>https://www.math.columbia.edu/~dejong/wordpress/?p=4716</link>
+					<comments>https://www.math.columbia.edu/~dejong/wordpress/?p=4716#comments</comments>
+		
+		<dc:creator><![CDATA[Johan]]></dc:creator>
+		<pubDate>Sat, 18 Dec 2021 23:15:09 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://www.math.columbia.edu/~dejong/wordpress/?p=4716</guid>
+
+					<description><![CDATA[OK, I recently read Philosophical Investigations and I enjoyed it very much! Language games! Anyway, I wanted to quote a passage about mathematics But am I trying to say some such thing as that the certainty of mathematics is based &#8230; <a href="https://www.math.columbia.edu/~dejong/wordpress/?p=4716">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>OK, I recently read Philosophical Investigations and I enjoyed it very much! Language games! Anyway, I wanted to quote a passage about mathematics</p>
+<blockquote><p>But am I trying to say some such thing as that the certainty of mathematics is based on the reliability of ink and paper? <em>No.</em> (That would be a vicious circle.)&#8211;I have not said <em>why</em> mathematicians do not quarrel, but only <em>that</em> they do not.</p>
+<p>It is no doubt true that you could not calculate with certain sorts of paper and ink, if, that is, they were subject to certain queer changes—but still the fact that they changed could in turn only be got from memory and comparison with other means of calculation. And how are these tested in their turn?</p>
+<p>What has to be accepted, the given, is—so one could say—<em>forms of life</em>.</p></blockquote>
+<p>Makes you think, right?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.math.columbia.edu/~dejong/wordpress/?feed=rss2&#038;p=4716</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
